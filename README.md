@@ -75,5 +75,10 @@ This project involves connecting the database with Cassandra and entering Quran 
 
 8. **Code for Find the Answer**
 
-    ![]()
+    * Code to find English word
+    
+    ![code for english](https://raw.githubusercontent.com/hilmanyusoh/big-data-engineering-with-python-2023/main/image/Screenshot%202567-03-29%20at%2001.28.39.png)
 
+    * Code to find Arabic word 
+    
+    ![code for arabic](https://raw.githubusercontent.com/hilmanyusoh/big-data-engineering-with-python-2023/main/image/Screenshot%202567-03-29%20at%2001.29.41.png)
