@@ -6,7 +6,6 @@ Big Data Engineering with Python 2023 Course
 This project involves connecting the database with Cassandra and entering Quran data into the database in order to analyze the data.
 
 -----
-
 * **Tools**
     * Cassandra
     * Jupyter Lab
@@ -16,15 +15,15 @@ This project involves connecting the database with Cassandra and entering Quran 
     * Python v2.7
     * cassandra
     * Python libraries:
-    * pandas
-    * cassandra
-    * re
-    * os
-    * glob
-    * numpy
-    * csv
-    * matplotlib
-    * requests
-    * fuzzywuzzy
-    * collections
-    * nltk
+        * pandas
+        * cassandra
+        * re
+        * os
+        * glob
+        * numpy
+        * csv
+        * matplotlib
+        * requests
+        * fuzzywuzzy
+        * collections
+        * nltk
