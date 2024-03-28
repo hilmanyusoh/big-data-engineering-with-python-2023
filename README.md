@@ -27,3 +27,5 @@ This project involves connecting the database with Cassandra and entering Quran 
         * fuzzywuzzy
         * collections
         * nltk
+
+# Methodology
