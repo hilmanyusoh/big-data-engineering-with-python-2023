@@ -51,5 +51,7 @@ This project involves connecting the database with Cassandra and entering Quran 
 
 
 4. **Use Keyspace**
-    ![Use keyspace]()
+    ![Use keyspace](https://raw.githubusercontent.com/hilmanyusoh/big-data-engineering-with-python-2023/main/image/Screenshot%202567-03-29%20at%2000.18.26.png)
 
+5. **Create Table**
+    ![]()
