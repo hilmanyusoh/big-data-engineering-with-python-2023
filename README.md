@@ -32,7 +32,7 @@ This project involves connecting the database with Cassandra and entering Quran 
 1. **Set up Cassandra**
     * Open Cassandra
         * Can open in terminal or cmd
-        
+
     ![open cassandra](https://raw.githubusercontent.com/hilmanyusoh/big-data-engineering-with-python-2023/main/image/Screenshot%202567-03-28%20at%2014.19.04.png)
                 
     * Open cqlsh to use Cassandra
@@ -50,5 +50,6 @@ This project involves connecting the database with Cassandra and entering Quran 
     ![Create Keyspace](https://raw.githubusercontent.com/hilmanyusoh/big-data-engineering-with-python-2023/main/image/Screenshot%202567-03-28%20at%2023.57.03.png)
 
 
-
+4. **Use Keyspace**
+    ![Use keyspace]()
 
