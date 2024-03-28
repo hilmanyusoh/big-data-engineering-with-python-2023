@@ -32,7 +32,7 @@ This project involves connecting the database with Cassandra and entering Quran 
 1. **Set up Cassandra**
     * Open Cassandra
         * Can open in terminal or cmd
-    ![i](/Users/hilmanyusoh/Downloads)
+    ![i](/file:///Users/hilmanyusoh/Downloads/Screenshot%202567-03-28%20at%2014.19.04.png)
         
         * Open cqlsh to use Cassandra
 
