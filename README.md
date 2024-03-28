@@ -29,8 +29,12 @@ This project involves connecting the database with Cassandra and entering Quran 
         * nltk
 
 # Methodology
-* Open Cassandra
-    * Can open in terminal or cmd
-    /Users/hilmanyusoh/Desktop/big-data-engineering-with-python2023/image/Open Cassandra.png
-    * Open calsh
-    /Users/hilmanyusoh/Desktop/big-data-engineering-with-python2023/image/Open cqlsh.png
+1. **Set up Cassandra**
+    * Open Cassandra
+        * Can open in terminal or cmd
+
+    ![Cassandra Screenshot](https://github.com/hilmanyusoh/big-data-engineering-with-python-2023/blob/main/image/Open%20Cassandra.png)
+
+    * Open cqlsh to use Cassandra
+
+    ![Cqlsh Screenshot]()
