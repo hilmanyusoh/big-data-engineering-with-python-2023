@@ -12,7 +12,7 @@ This project involves connecting the database with Cassandra and entering Quran 
 
 * **Installation**
     * Java 8
-    * Python v3.11
+    * Python v2.7
     * cassandra
     * Python libraries:
         * pandas
@@ -29,3 +29,6 @@ This project involves connecting the database with Cassandra and entering Quran 
         * nltk
 
 # Methodology
+* Open Cassandra
+    * Can open in terminal or cmd
+    
