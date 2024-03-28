@@ -84,3 +84,6 @@ This project involves connecting the database with Cassandra and entering Quran 
     ![code for arabic](https://raw.githubusercontent.com/hilmanyusoh/big-data-engineering-with-python-2023/main/image/Screenshot%202567-03-29%20at%2001.29.41.png)
 
 # Questions and Answers
+
+1. **How many times does the phrase Allah appear in the Quran?**
+   - Answer: The phrase Allah occurs 601 times in the Quran.
