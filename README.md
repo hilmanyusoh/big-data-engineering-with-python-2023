@@ -32,7 +32,7 @@ This project involves connecting the database with Cassandra and entering Quran 
 1. **Set up Cassandra**
     * Open Cassandra
         * Can open in terminal or cmd
-<img width="343" alt="Screenshot 2567-03-28 at 14 19 04" src="https://github.com/hilmanyusoh/big-data-engineering-with-python-2023/assets/118374893/05375937-24c0-4315-b213-423fee4271b9">
+<img width="343" alt="Screenshot 2567-03-28 at 14 19 04.png" src="https://github.com/hilmanyusoh/big-data-engineering-with-python-2023/assets/118374893/05375937-24c0-4315-b213-423fee4271b9">
 
         
         * Open cqlsh to use Cassandra
