@@ -60,7 +60,7 @@ This project involves connecting the database with Cassandra and entering Quran 
 
     ![Create Table tafseer](https://raw.githubusercontent.com/hilmanyusoh/big-data-engineering-with-python-2023/main/image/Screenshot%202567-03-29%20at%2000.23.02.png)
 
-6. **Extract Data from CSV**
+6. **Extract data from CSV file**
 
     ![Extract data1](https://raw.githubusercontent.com/hilmanyusoh/big-data-engineering-with-python-2023/main/image/Screenshot%202567-03-29%20at%2000.58.30.png)
 
