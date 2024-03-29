@@ -74,7 +74,7 @@ This project involves connecting the database with Cassandra and entering Quran 
 
 
 8. **Code for Find the Answer**
-   #### Code to find out how many words are in each word in the database. 
+   ##### Code to find out how many words are in each word in the database. 
 
     * Code to find English word
     
