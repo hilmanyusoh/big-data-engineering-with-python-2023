@@ -86,6 +86,7 @@ This project involves connecting the database with Cassandra and entering Quran 
 
 # Questions and Answers
 ##### This is the result we coded above. And it will show you the answer of how many words there are in the database.
+===
 
 1. **How many times does the phrase Allah appear in the Quran?**
    - Answer: The phrase Allah occurs 601 times in the Quran.
